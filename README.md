@@ -1,5 +1,22 @@
-## Hi there 👋
-
+## Hello, Im Valley.
+An aspiring software developer working in the trenches of web development and rust.
+#### Languages
+- JavaScript/TypeScript
+- HTML/CSS/PHP
+- Python
+- Bash
+- Java
+- Rust
+- C#
+- Nix
+### Technologies
+- Git
+- Unity
+- Godot
+- Apache
+- Nix
+#### Projects
+- ![Bento!](https://bento-app.uk) (A quizzing webapp focused on SRS)
 <!--
 **IffyDeathValley99/IffyDeathValley99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
